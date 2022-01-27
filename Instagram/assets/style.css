@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Mochiy+Pop+P+One&display=swap');
+
+#titulo {
+    font-family: 'Cookie';
+    font-size: 64px;
+}
+div {
+    border: 1px solid grey;
+}
